@@ -1,1 +1,2 @@
-hDisplay current directory contents.
+#!/bin/bash
+ls -l
